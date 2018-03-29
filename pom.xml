@@ -11,11 +11,11 @@
   
   <dependencies>  
     <dependency>  
-    <groupId>com.google.code.gson</groupId>  
-    <artifactId>gson</artifactId>  
-    <version>2.2.4</version>  
+    <groupId>com.alibaba</groupId>  
+    <artifactId>fastjson</artifactId>  
+    <version>1.2.6</version>  
   
-      <scope>test</scope>  
+      <scope>system</scope>  
     </dependency>  
   </dependencies>  
 </project>  
