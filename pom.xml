@@ -15,7 +15,7 @@
     <artifactId>fastjson</artifactId>  
     <version>1.2.6</version>  
   
-      <scope>system</scope>  
+      <scope>test</scope>  
     </dependency>  
   </dependencies>  
 </project>  
